@@ -1,0 +1,9 @@
+<AppUpdater>
+  <update>
+    <latestVersion>7.0</latestVersion>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <releaseNotes>.
+- Test
+    </releaseNotes>
+  </update>
+</AppUpdater>
