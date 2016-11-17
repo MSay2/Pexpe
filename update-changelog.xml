@@ -1,9 +1,0 @@
-<AppUpdater>
-  <update>
-    <latestVersion>8.0</latestVersion>
-    <url>https://github.com/msay2/Pexpe/releases</url>
-    <releaseNotes>
-- Test
-    </releaseNotes>
-  </update>
-</AppUpdater>
