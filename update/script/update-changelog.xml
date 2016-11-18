@@ -1,9 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>7.0</latestVersion>
+    <latestVersion>8.0</latestVersion>
     <url>https://github.com/msay2/Pexpe/releases</url>
-    <releaseNotes>.
-- Test
+    <releaseNotes>
+- Ajout d'une fonctionnalité de mise à jour
+- Amélioration d'un panneau d'édition
+- Amélioration de la vue des paramètres
     </releaseNotes>
   </update>
 </AppUpdater>
