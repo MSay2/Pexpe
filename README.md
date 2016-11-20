@@ -8,4 +8,5 @@ and contact me.
 # Mail
 Please contact me by mail: yoannmsay2@hotmail.com
 
+# More
 For more informations, visit http://www.phonandroid.com/forum/pexpe-un-simple-editeur-texte-t159219.html
