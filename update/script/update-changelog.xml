@@ -1,8 +1,9 @@
 <AppUpdater>
   <update>
-    <latestVersion>8.1</latestVersion>
+    <latestVersion>8.0</latestVersion>
     <url>https://github.com/msay2/Pexpe/releases</url>
     <releaseNotes>
+
 - Permet de cacher la barre de notification
     </releaseNotes>
   </update>
