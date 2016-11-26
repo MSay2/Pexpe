@@ -1,10 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>8.0</latestVersion>
+    <latestVersion>8.2</latestVersion>
     <url>https://github.com/msay2/Pexpe/releases</url>
     <releaseNotes>
 
-- Permet de cacher la barre de notification
+- Ajout d'une fonctionnalité de Sélection de texte
+
+(Pexpe peut maintenant obtenir le texte sélectionnée de toutes les applications)
     </releaseNotes>
   </update>
 </AppUpdater>
