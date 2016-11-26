@@ -90,7 +90,6 @@ Il ce peut que :
 	<string name="reset">"Réinitialiser"</string>
 	<string name="lib_title">"Bibliothèque"</string>
 
-
 	<!--Basic Text Error-->
 	<string name="error">"Erreur"</string>
 	<string name="unable_delete_file">"Impossible de supprimer le fichier."</string>
@@ -145,7 +144,7 @@ Il ce peut que :
 	<string name="huge">"Énorme"</string>
 
 	<!--Text for About-->
-	<string name="about_text">"Version 8.1
+	<string name="about_text">"Version 8.2
 
 Copyright © 2016 MSay2 Ltd
 
@@ -228,7 +227,10 @@ Pour me contacter :"</string>
     <string name="version_10">"• Amélioration apportée
 • Ajout d'une fonctionnalité de mise à jour"</string>
     <string name="version_11">"• La barre de notification peut-être maintenant cacher"</string>
+	<string name="version_12">"• Ajout d'une fonctionnalité de sélection de texte
 
+(Pexpe peux maintenant obtenir le texte sélectionnée de toutes les applications)"</string>
+	
 	<!--Experimente Text support dev-->
 	<string name="text_traduction">"Pour traduire l'application dans votre langue maternelle, envoyez un E-mail dans la section 'Signaler des bugs'"</string>
 
@@ -290,9 +292,32 @@ Voulez-vous donner à "<b>Pexpe</b>" les permissions requise pour fonctionner co
 	
 	<!--Basic Text for update Pexpe-->
 	<string name="download_app_update">"Télécharger"</string>
-	<string name="title_pexpe_v">"Pexpe v8.1"</string>
+	<string name="title_pexpe_v">"Pexpe v8.2"</string>
 	<string name="text_pexpe_v">"Vérifier si une mise à jour est disponible"</string>
 	<string name="text_wifi_no_detect">"Votre connexion réseau est désactivé !
 
 Veuillez activer votre connexion réseau pour mettre à jour "<b>Pexpe</b>""</string>
+
+    <!--Basic text for selection text-->
+	<string name="copied">"Copié"</string>
+	<string name="copied_2">"Copier le texte"</string>
+	<string name="replace">"Remplacé"</string>
+	<string name="replace_2">"Remplacer le texte selectionnée"</string>
+	<string name="open_in_new">"Ouvrir pexpe"</string>
+	<string name="open_in_new_2">"Ouvrir l'éditeur complet de pexpe"</string>
+	<string name="guide_info_selection">"<u>"Guide d'utilisation de Sélection de textes"</u>"</string>
+	<string name="guide_info_selection_dialog_title">"Guide"</string>
+	<string name="guide_info_selection_dialog_text">"Sélection de textes vous permet de manipuler le texte sélectionnée sur d'autres applications, il vous permettra de rédiger le texte sélectionnée avec l'éditeur de Pexpe.
+
+- La fonction copier vous permet de copier le texte écrit
+
+- La fonction remplacer vous permet de remplacer l'intégralité du texte sélectionnée
+
+- La fonction Ouvrir Pexpe vous permet de ouvrir l'éditeur complet de Pexpe
+
+Note: La fonction remplacer fonctionnera que sur des zones d'éditions de textes des applications (mail, SMS, barre de recherche... Etc)
+
+Astuce: Vous vous dans trouvé dans une zone d'édition de texte, vous pouvez faire appelle à Pexpe via la Sélection de texte du système d'Android et manipuler, corriger, ajouter du texte et le remplacer.
+
+Vous pouvez aussi copier le texte manipulée et ouvrir Pexpe directement de cette interface pour enregistrer le texte manipulée."</string>
 </resources>
