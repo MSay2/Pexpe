@@ -1,12 +1,23 @@
 <AppUpdater>
   <update>
-    <latestVersion>8.2</latestVersion>
+    <latestVersion>8.3</latestVersion>
     <url>https://github.com/msay2/Pexpe/releases</url>
     <releaseNotes>
 
-- Ajout d'une fonctionnalité de Sélection de texte
+- Ajout d'une fonctionnalité d'alignement du texte écrit
+- Suppression de quelques trucs
+- Quelques bugs ont étais réglées
+    </releaseNotes>
+  </update>
+</AppUpdater><AppUpdater>
+  <update>
+    <latestVersion>8.3</latestVersion>
+    <url>https://github.com/msay2/Pexpe/releases</url>
+    <releaseNotes>
 
-(Pexpe peut maintenant obtenir le texte sélectionnée de toutes les applications)
+- Ajout d'une fonctionnalité d'alignement du texte écrit
+- Suppression de quelques trucs
+- Quelques bugs ont étais réglées
     </releaseNotes>
   </update>
 </AppUpdater>
