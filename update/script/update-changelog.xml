@@ -9,15 +9,4 @@
 - Quelques bugs ont étais réglées
     </releaseNotes>
   </update>
-</AppUpdater><AppUpdater>
-  <update>
-    <latestVersion>8.3</latestVersion>
-    <url>https://github.com/msay2/Pexpe/releases</url>
-    <releaseNotes>
-
-- Ajout d'une fonctionnalité d'alignement du texte écrit
-- Suppression de quelques trucs
-- Quelques bugs ont étais réglées
-    </releaseNotes>
-  </update>
 </AppUpdater>
