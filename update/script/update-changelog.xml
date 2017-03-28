@@ -1,12 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>8.4</latestVersion>
+    <latestVersion>9.1</latestVersion>
     <url>https://github.com/msay2/Pexpe/releases</url>
     <releaseNotes>
 
-• Amélioration de quelques trucs
-• Mise en page "Traduction" a était rafraîchit
-• Mise en page "Selection texte" a était rafraîchit
+• Voici Oliver (Collaborateur)
+• Modification de l'introduction d'image
+• Mise à jour de certains codages Android
     </releaseNotes>
   </update>
 </AppUpdater>
