@@ -1,12 +1,15 @@
 <AppUpdater>
   <update>
-    <latestVersion>9.1</latestVersion>
+    <latestVersion>9.2</latestVersion>
     <url>https://github.com/msay2/Pexpe/releases</url>
     <releaseNotes>
-
-• Voici Oliver (Collaborateur)
-• Modification de l'introduction d'image
-• Mise à jour de certains codages Android
+• Améliorations apportées 
+• Augmentation du nombre de fichier(s) récent(s) passé à 12
+• 4 nouveaux types de Textes: 
+    -Makhina
+	-Minecraft 
+	-Reckoner 
+	-Square"
     </releaseNotes>
   </update>
 </AppUpdater>
