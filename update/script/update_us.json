@@ -1,9 +1,14 @@
 {
-    "versionName": "9.3",
-    "versionCode": "93",
+    "versionName": "10.0",
+    "versionCode": "100",
+    "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/Pexpe/master/app.apk",
     "release": 
     [
-        "Langue US"
+        "- Enhanced update function",
+        "- Improvement of the ChangeLog dialog",
+        "- Improvement of the Snackbar",
+        "- Added an automatic update feature",
+        "- You now have the opportunity to see the hidden files"
     ]
 }
