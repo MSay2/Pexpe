@@ -1,14 +1,11 @@
 {
-    "versionName": "10.0",
-    "versionCode": "100",
+    "versionName": "11.0",
+    "versionCode": "110",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/Pexpe/master/app.apk",
     "release": 
     [
-        "- Fonction de mise à jour améliorée",
-        "- Amélioration de la boîte de dialogue Journal des modifications",
-        "- Amélioration de la Snackbar",
-        "- Ajout d'une fonctionnalité de mise à jour automatique",
-        "- Vous avez maintenant la possibilité de voir les fichiers cachés"
+        "- Ajout d'un Gestionnaire de copies",
+        "- Mise à jour de la traduction Englaise"
     ]
 }
