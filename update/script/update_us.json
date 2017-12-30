@@ -1,12 +1,12 @@
 {
-    "versionName": "11.0",
-    "versionCode": "110",
+    "versionName": "11.12",
+    "versionCode": "111",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/Pexpe/master/app.apk",
     "release": 
     [
-        "- Add of a Clipboard Manager",
-        "- Update translation English",
-        "- Improvements"
+        "- Number of recent files passed to 20",
+        "- Fix action bar title bug",
+        "- Pexpe can now be affiliated with other apps"
     ]
 }

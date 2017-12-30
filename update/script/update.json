@@ -1,12 +1,12 @@
 {
-    "versionName": "11.0",
+    "versionName": "11.12",
     "versionCode": "110",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/Pexpe/master/app.apk",
     "release": 
     [
-        "- Ajout d'un Gestionnaire de copies",
-        "- Mise à jour de la traduction Englaise",
-        "- Améliorations"
+        "- Nombre de fichiers récents passé à 20",
+        "- Correction du bogue du titre de la barre d'action",
+        "- Pexpe peut maintenant être affiliée à d'autres applications"
     ]
 }
